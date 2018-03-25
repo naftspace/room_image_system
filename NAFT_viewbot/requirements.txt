@@ -1,0 +1,9 @@
+virtualenv==15.1.0
+dj-database-url==0.4.1
+Django==1.10.6
+gunicorn==19.6.0
+whitenoise==3.2
+requests==2.14.2
+doco==0.0.3
+janome==0.2.8
+pandas==0.20.2
